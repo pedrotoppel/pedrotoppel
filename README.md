@@ -7,8 +7,8 @@
 Estudante de Engenharia de Software apaixonado por desenvolvimento web.
 Atualmente me preparando para a etapa nacional da **WorldSkills #17 – Tecnologias Web** pelo SENAI CIC.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/seu-usuario](https://www.linkedin.com/in/pedro-henrique-mazur-toppel-b26089332/](https://br.linkedin.com/in/pedro-henrique-mazur-toppel-b26089332)))
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seu-usuario](https://github.com/pedrotoppel))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pedro-henrique-mazur-toppel-b26089332/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pedrotoppel))
 
 </div>
 
