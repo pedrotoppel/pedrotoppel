@@ -18,7 +18,7 @@ Atualmente me preparando para a etapa nacional da **WorldSkills #17 – Tecnolog
 
 - 🎓 Cursando **Engenharia de Software** na Universidade Positivo (2025 – 2028)
 - 🏆 Competidor **WorldSkills #17 – Tecnologias Web** pelo SENAI CIC
-- 💡 Técnico em **Análise e Desenvolvimento de Sistemas** pelo Colégio SESI CIC
+- 💡 Técnico em **Desenvolvimento de Sistemas** pelo Colégio SESI CIC
 - 🌎 Inglês avançado
 - 📍 Curitiba, PR – Brasil
 
