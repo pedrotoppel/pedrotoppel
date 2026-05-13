@@ -53,8 +53,8 @@ Atualmente me preparando para a etapa nacional da **WorldSkills #17 – Tecnolog
 
 <div align="center">
 
-![Pedro's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pedrotoppel&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrotoppel&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br)
+![Pedro's GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pedrotoppel&theme=tokyonight)
+![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pedrotoppel&theme=tokyonight)
 
 </div>
 
