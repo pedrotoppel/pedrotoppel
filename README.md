@@ -7,8 +7,8 @@
 Estudante de Engenharia de Software apaixonado por desenvolvimento web.
 Atualmente me preparando para a etapa nacional da **WorldSkills #17 – Tecnologias Web** pelo SENAI CIC.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-usuario)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seu-usuario)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/seu-usuario](https://www.linkedin.com/in/pedro-henrique-mazur-toppel-b26089332/](https://br.linkedin.com/in/pedro-henrique-mazur-toppel-b26089332)))
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seu-usuario](https://github.com/pedrotoppel))
 
 </div>
 
@@ -53,8 +53,8 @@ Atualmente me preparando para a etapa nacional da **WorldSkills #17 – Tecnolog
 
 <div align="center">
 
-![Pedro's GitHub Stats](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br)
+![Pedro's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pedrotoppel&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrotoppel&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br)
 
 </div>
 
